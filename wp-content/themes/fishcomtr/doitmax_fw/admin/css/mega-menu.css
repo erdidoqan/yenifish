@@ -1,0 +1,44 @@
+.max-mega-menu-options {
+    margin-top: 10px;
+}
+
+.field-megamenu-status,
+.field-megamenu-width,
+.field-megamenu-columns,
+.field-megamenu-title,
+.field-megamenu-widgetarea,
+.max-megamenu-upload-thumbnail.button-primary,
+.field-megamenu-icon,
+.field-megamenu-thumbnail,
+.max-megamenu-thumbnail-image {
+	display: none;
+}
+
+.menu-item-depth-0 .field-megamenu-status,
+.menu-item-depth-0.max-megamenu .field-megamenu-width,
+.menu-item-depth-0.max-megamenu .field-megamenu-columns,
+.menu-item-depth-1.max-megamenu .field-megamenu-title,
+.menu-item-depth-1.max-megamenu .field-megamenu-widgetarea,
+.menu-item-depth-2.max-megamenu .field-megamenu-widgetarea,
+.max-megamenu .field-megamenu-icon,
+.max-megamenu .field-megamenu-thumbnail {
+	display: block;
+}
+
+.max-megamenu .max-megamenu-upload-thumbnail {
+	display: inline-block;
+}
+
+.max-megamenu-thumbnail-image {
+	max-width: 300px;
+}
+
+.menu-item-depth-0 .max-megamenu-upload-thumbnail,
+.menu-item-depth-1 .max-megamenu-upload-thumbnail,
+.menu-item-depth-2 .max-megamenu-upload-thumbnail {
+	margin-top: 0 !important;
+}
+
+.max-megamenu-upload-thumbnail {
+	margin-top: 0.6em !important;
+}

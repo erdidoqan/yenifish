@@ -1,0 +1,18 @@
+<wpml-config>
+  <admin-texts>
+    <key name="invictus_homepage_welcome_teaser" />
+    <key name="invictus_copyright" />
+    <key name="invictus_protected_login_text" />
+    <key name="invictus_splash_enter_text" />
+    <key name="invictus_splash_custom_text" />
+    <key name="invictus_contact_sidebar_header" />
+    <key name="invictus_contact_info" />
+    <key name="invictus_contact_info_header" />
+    <key name="invictus_contact_adress_1" />
+    <key name="invictus_contact_adress_2" />
+    <key name="invictus_contact_phone" />
+    <key name="invictus_contact_fax" />
+    <key name="invictus_contact_info_email" />
+    <key name="invictus_post_social_text" />
+  </admin-texts>
+</wpml-config>
